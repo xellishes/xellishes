@@ -1,6 +1,6 @@
  <p align="center"
   
-##### ![piew](https://watermelon.crd.co/assets/images/gallery06/d4647fd1.gif?v=6332de85) [rentry](https://rentry.co/odysseyduo) ![woa](https://i.postimg.cc/6qczPv2S/FC79189-D-7-F9-D-4-C4-F-BF7-A-E5540-B9-C44-AA.gif) [prns](https://pronouns.cc/@xellish) ![fishh](https://i.postimg.cc/6pyzHT9j/3-D48-C7-C7-581-B-4636-B020-EF1-C5-FDEF55-D.gif) [strwpge](https://xellish.straw.page) ![eee](https://files.catbox.moe/v9ha2m.gif)
+##### ![](https://img.photobucket.com/albums/v252/shaquanda/dumpitydump/pixelwixel/1789.gif) [rentry](https://rentry.co/odysseyduo) ![](https://64.media.tumblr.com/d4ab46a4c51b3ca82aa816922c07ba7f/eb3633f3fd909c8f-f1/s75x75_c1/61456061b1f639c4022ca850b94b8ea6e694fddc.gifv) [prns](https://pronouns.cc/@xellish) ![](https://64.media.tumblr.com/a72dd74e2caf350087e5092220680158/eb3633f3fd909c8f-8d/s75x75_c1/745aa03ec39603fe1343e5924381a8ca3d221058.gifv) [strwpge](https://xellish.straw.page) ![](https://watermelon.crd.co/assets/images/gallery15/022bd3a1.png?v=58fed03f)
  <p align="center"
   
 
