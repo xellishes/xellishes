@@ -5,11 +5,11 @@
  <p align="center"
 
 <img
-        src="https://files.catbox.moe/0ydisj.gif" 
+        src="https://i.imgur.com/TQGA7dl.png" 
         width=45%
         title="My Image"
         alt="My Image" >
 
  <p align="center" 
   
-  ##### ic otter_022 on twt!
+  ##### ic uraearf on twt!
