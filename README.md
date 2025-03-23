@@ -11,9 +11,5 @@
         alt="My Image" >
 
  <p align="center" 
-  
-  ![](https://komarev.com/ghpvc/?username=xellishes&color=7377b2)
-
-<p align="center" 
  
  ##### ic uraearf on twt!
