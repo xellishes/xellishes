@@ -12,4 +12,8 @@
 
  <p align="center" 
   
-  ##### ic uraearf on twt!
+  ![](https://komarev.com/ghpvc/?username=xellishes&color=7377b2)
+
+<p align="center" 
+ 
+ ##### ic uraearf on twt!
