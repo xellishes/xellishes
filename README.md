@@ -5,11 +5,11 @@
  <p align="center"
 
 <img
-        src="https://i.imgur.com/TQGA7dl.png" 
+        src="https://files.catbox.moe/ai9kge.png" 
         width=45%
         title="My Image"
         alt="My Image" >
 
  <p align="center" 
  
- ##### ac uraearf on twt!
+ ##### ac RE7RIBUTION on twt!
