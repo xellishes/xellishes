@@ -12,4 +12,4 @@
 
  <p align="center" 
  
- ##### ac RE7RIBUTION on twt!
+ ##### [ac RE7RIBUTION on twt!](https://x.com/RE7RIBUTION)
