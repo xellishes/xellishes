@@ -6,11 +6,9 @@ sign my ataaa ok? ok oke
  <p align="center"
 
 <img
-        src="https://files.catbox.moe/ai9kge.png" 
-        width=45%
+        src="https://i.imgur.com/mXUPaZE.png" 
+        width=70%
         title="My Image"
         alt="My Image" >
 
- <p align="center" 
- 
- ##### [ac RE7RIBUTION on twt!](https://x.com/RE7RIBUTION)
+
