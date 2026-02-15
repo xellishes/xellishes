@@ -6,9 +6,11 @@ sign my ataaa ok? ok oke
  <p align="center"
 
 <img
-        src="https://i.imgur.com/mXUPaZE.png" 
-        width=70%
+        src="https://i.imgur.com/eJcKuO3.png" 
+        width=60%
         title="My Image"
         alt="My Image" >
 
-
+ <p align="center"
+    
+ac whosmaymadness
