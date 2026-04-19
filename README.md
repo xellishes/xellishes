@@ -13,13 +13,13 @@ socially drained often might be dry mb
 
 <img
         src="https://files.catbox.moe/mze8kf.png" 
-        width=60%
+        width=45%
         title="My Image"
         alt="My Image" >
 
  <p align="center"
     
-ac whosmaymadness
+ac heliosemergency
 
 <p align="center"
 
