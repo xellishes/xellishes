@@ -12,7 +12,7 @@ socially drained often might be dry mb
  <p align="center"
 
 <img
-        src="https://i.imgur.com/eJcKuO3.png" 
+        src="https://files.catbox.moe/mze8kf.png" 
         width=60%
         title="My Image"
         alt="My Image" >
