@@ -1,18 +1,6 @@
   <p align="left"
      
 github rmk soon ok !
-<p align="left"
-  
-this is my ata guys pls sign it
-
- <p align="left"
-
-<img
-        src="https://file.garden/ajj-Z3d4nHk4IRl9/bs/p07m8338.jpg"  
-        width=35%
-        title="My Image"
-        alt="My Image" >
-
 
    <p align="center"
     
