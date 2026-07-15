@@ -13,16 +13,16 @@
 <p align="center" 
   
 [<img src="https://file.garden/ajj-Z3d4nHk4IRl9/lose%20graphics/butterfly%20rentry.png" 
-        width=13% 
+        width=12% 
         title="My Image"
         alt="My Image" >](https://rentry.co/xellish) [<img src="https://file.garden/ajj-Z3d4nHk4IRl9/lose%20graphics/butterfly%20atabook.png" 
-        width=13% 
+        width=12% 
         title="My Image"
         alt="My Image" >](https://utopia.atabook.org)  [<img src="https://file.garden/ajj-Z3d4nHk4IRl9/lose%20graphics/butterflt%20strwpge.png" 
-        width=13% 
+        width=12% 
         title="My Image"
         alt="My Image" >](https://wifies.straw.page)  [<img src="https://file.garden/ajj-Z3d4nHk4IRl9/lose%20graphics/butterflt%20prns.png" 
-        width=13% 
+        width=12% 
         title="My Image"
         alt="My Image" >](https://pronouns.cc/@odysseyduo) 
 
