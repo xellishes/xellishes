@@ -6,7 +6,9 @@
         alt="My Image" >
 
 <p align="center"
-<a href="https://hits.sh/github.com/convexic/"><img alt="Hits" src="https://hits.sh/github.com/convexic.svg?label=views&color=756cc6&labelColor=a8aabe&logo=pipecat"/></a>
+  
+$${\color{#736cae}sign \space my \space atabook!}$$
+  <a href="https://hits.sh/github.com/convexic/"><img alt="Hits" src="https://hits.sh/github.com/convexic.svg?label=views&color=756cc6&labelColor=a8aabe&logo=pipecat"/></a> 
 
  <img align="left" width="403" height="259" src="https://file.garden/ajj-Z3d4nHk4IRl9/lose%20graphics/wifies%20gh.png">
 
