@@ -15,17 +15,17 @@
   
 [<img src="https://file.garden/ajj-Z3d4nHk4IRl9/lose%20graphics/butterfly%20rentry.png" 
         width=12% 
-        title="My Image"
-        alt="My Image" >](https://rentry.co/xellish) [<img src="https://file.garden/ajj-Z3d4nHk4IRl9/lose%20graphics/butterfly%20atabook.png" 
+        title="rentry"
+        alt="rentry" >](https://rentry.co/xellish) [<img src="https://file.garden/ajj-Z3d4nHk4IRl9/lose%20graphics/butterfly%20atabook.png" 
         width=12% 
-        title="My Image"
-        alt="My Image" >](https://utopia.atabook.org)  [<img src="https://file.garden/ajj-Z3d4nHk4IRl9/lose%20graphics/butterflt%20strwpge.png" 
+        title="atabook"
+        alt="atabook" >](https://utopia.atabook.org)  [<img src="https://file.garden/ajj-Z3d4nHk4IRl9/lose%20graphics/butterflt%20strwpge.png" 
         width=12% 
-        title="My Image"
-        alt="My Image" >](https://wifies.straw.page)  [<img src="https://file.garden/ajj-Z3d4nHk4IRl9/lose%20graphics/butterflt%20prns.png" 
+        title="strawpage"
+        alt="strawpage" >](https://wifies.straw.page)  [<img src="https://file.garden/ajj-Z3d4nHk4IRl9/lose%20graphics/butterflt%20prns.png" 
         width=12% 
-        title="My Image"
-        alt="My Image" >](https://pronouns.cc/@odysseyduo) 
+        title="pronouns_page"
+        alt="pronouns_page" >](https://pronouns.cc/@odysseyduo) 
 
 $${\color{#736cae}sign \space my \ atabook!}$$
 
