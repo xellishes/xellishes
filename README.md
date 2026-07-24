@@ -16,7 +16,7 @@
 [<img src="https://file.garden/ajj-Z3d4nHk4IRl9/lose%20graphics/butterfly%20rentry.png" 
         width=12% 
         title="rentry"
-        alt="rentry" >](https://rentry.co/xellish) [<img src="https://file.garden/ajj-Z3d4nHk4IRl9/lose%20graphics/butterfly%20atabook.png" 
+        alt="rentry" >](https://rentry.co/wifeory) [<img src="https://file.garden/ajj-Z3d4nHk4IRl9/lose%20graphics/butterfly%20atabook.png" 
         width=12% 
         title="atabook"
         alt="atabook" >](https://utopia.atabook.org)  [<img src="https://file.garden/ajj-Z3d4nHk4IRl9/lose%20graphics/butterflt%20strwpge.png" 
