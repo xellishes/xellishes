@@ -27,7 +27,7 @@
         title="pronouns_page"
         alt="pronouns_page" >](https://pronouns.cc/@odysseyduo) 
 
-$${\color{#736cae}sign \space my \ atabook!}$$
+$${\color{#736cae}sign \space my \ atabook! \ // \ view \ on \ desktop}$$
 
 <p align="center"
 
