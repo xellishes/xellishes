@@ -31,6 +31,6 @@ $${\color{#736cae}sign \space my \ atabook! \ // \ view \ on \ desktop}$$
 
 <p align="center"
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31tq3crwbohefsbljc2ocxpszffm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=a5aae0&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31tq3crwbohefsbljc2ocxpszffm&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 $${\color{#736cae}ac \space senncoo \ // \ rentry \ comms \ open! \ }$$
